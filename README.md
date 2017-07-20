@@ -3,4 +3,4 @@
 Written by Garret Kurteff at the Laboratory of Dr. Edward Chang, UC San Francisco (http://changlab.ucsf.edu)
 
 ### WAB chart ###
-![WAB chart](https://github.com/grtkrtf/wabscore/blob/master/wabchart.png?raw=true)
+![WAB chart](https://github.com/grtkrtf/wabscore/blob/master/wabchart.PNG?raw=true)
